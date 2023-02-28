@@ -1,4 +1,4 @@
-package com.java.fullstack;
+package com.java.edk1;
 //Write a program to check given number is evenor odd
 
 import java.util.Scanner;

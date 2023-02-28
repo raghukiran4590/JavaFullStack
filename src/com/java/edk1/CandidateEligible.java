@@ -1,4 +1,4 @@
-package com.java.fullstack;
+package com.java.edk1;
 //Write a program to check if acandidate is eligible for voting or not. (Hint: Check age)
 
 import java.util.Scanner;

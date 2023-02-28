@@ -1,4 +1,4 @@
-package com.java.fullstack;
+package com.java.edk1;
 //Write programs to use all the data types and given arithmetic operations.
 public class DataTypes {
 

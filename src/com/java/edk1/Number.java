@@ -1,4 +1,4 @@
-package com.java.fullstack;
+package com.java.edk1;
 
 import java.util.Scanner;
 

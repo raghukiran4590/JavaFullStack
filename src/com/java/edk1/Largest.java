@@ -1,4 +1,4 @@
-package com.java.fullstack;
+package com.java.edk1;
 //Write a program to find largest of two numbers.
 
 import java.util.Scanner;

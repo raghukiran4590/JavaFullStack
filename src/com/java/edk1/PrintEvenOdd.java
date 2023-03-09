@@ -3,5 +3,5 @@ package com.java.edk1;
 
 public class PrintEvenOdd {
 
-    
+
 }

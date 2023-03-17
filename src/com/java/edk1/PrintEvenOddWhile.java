@@ -1,22 +1,23 @@
 package com.java.edk1;
-//Write a program to print 10 even numbers and 10 odd numbers.
 
-public class PrintEvenOdd {
+public class PrintEvenOddWhile {
 
     public static void main(String[] args) {
+        int i=1,j=1;
         System.out.println("Even Numbers : ");
 
-        for (int i=1; i<=20; i++) {
+        while(i<=20) {
             if(i%2==0) {
                 System.out.println(i);
             }
+            i+=1;
         }
         System.out.println("Odd Numbers : ");
-        for (int j=1; j<=20; j++) {
+        while(j<=20) {
             if(j%2!=0) {
                 System.out.println(j);
             }
+            j+=1;
         }
     }
-
 }

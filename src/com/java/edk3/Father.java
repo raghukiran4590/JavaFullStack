@@ -5,10 +5,13 @@ public class Father {
     int age = 60;
 
     public Father() {
+
         System.out.println("In the Father class");
     }
 
     public void getAge() {
-        System.out.println("The age of the father is : "+this.age);
+
+        System.out.println("The age is : "+age);
     }
+
 }

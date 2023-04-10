@@ -1,5 +1,6 @@
 package com.java.package2;
-import com.java.edk4.*;
+
+import com.java.edk4.PackageExample;
 
 public class PackageImport {
 

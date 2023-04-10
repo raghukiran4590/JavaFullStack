@@ -1,7 +1,5 @@
 package com.java.edk4;
 
-import java.util.Scanner;
-
 public class PackageExample {
 
     public int subtract(int a , int b) {

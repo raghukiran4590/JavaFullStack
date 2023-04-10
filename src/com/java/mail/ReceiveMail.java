@@ -1,13 +1,10 @@
 package com.java.mail;
 
+import com.sun.mail.imap.IMAPStore;
+
+import javax.mail.*;
 import java.io.IOException;
 import java.util.Properties;
-import javax.mail.Folder;
-import javax.mail.Message;
-import javax.mail.MessagingException;
-import javax.mail.NoSuchProviderException;
-import javax.mail.Session;
-import com.sun.mail.imap.IMAPStore;
 //import com.sun.mail.pop3.POP3Store;
 
 public class ReceiveMail{
